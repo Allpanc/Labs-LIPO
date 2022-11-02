@@ -1,0 +1,7 @@
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\bin\Debug\Labs-LIPO.exe.config
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\bin\Debug\Labs-LIPO.exe
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\bin\Debug\Labs-LIPO.pdb
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\obj\Debug\Labs-LIPO.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\obj\Debug\Labs-LIPO.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\obj\Debug\Labs-LIPO.exe
+C:\Users\Aleksandr\Desktop\Мои файлы\Учёба ВУЗ\4 курс\Лингвистическое и программное обеспечение\Labs-LIPO\obj\Debug\Labs-LIPO.pdb
